@@ -1,0 +1,40 @@
+
+.slide {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0 50px;
+}
+.overlay h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+  color: tomato;
+  font-weight: 900;
+}
+.overlay h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.overlay p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+   font-weight: 600;
+}
+
+.overlay btn1 {
+  padding: 10px 20px;
+  background: tomato;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.slick-dots li button:before {
+  color: white;
+}
