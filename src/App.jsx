@@ -3,7 +3,8 @@ import {  BrowserRouter as Router, Routes, Route, useLocation,} from "react-rout
 
 import Navbar from "./Pages/Navbar/navbar";
 import Home from "./Pages/Home/home";
-import Productspage from "./Pages/Productspage/productspage";
+// import Productspage from "./Pages/Productspage/productspage";
+import Productspage from "./Pages/Productspage/Productspage";
 import Jewelery from "./Pages/Jewelery/Jewelery";
 import Login from "./Pages/Login/login";
 import Woman from "./Pages/Woman/Woman" ;
