@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Products from "./components/product";  
 import Testimonial from "./components/Testimonial";  
 import DiscountBanner from "./components/Discount";
-import './home.css';
+import './../Home/Home.css';
 export default function Home() {
   return (
     <>
