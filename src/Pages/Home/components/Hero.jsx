@@ -45,7 +45,7 @@ export default function HeroSlider() {
               }}
             >
               <div className="overlay">
-                <h1>{slide.title}</h1>
+                <h1   className="sm:text-xl">{slide.title}</h1>
                 <h2>
                   {slide.title1}
                 </h2>
